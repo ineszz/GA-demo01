@@ -3,8 +3,8 @@ name: scrape-demo-ga
 
 # Controls when the action will run.
 on:
-  schedule:
-    - cron:  '0 * * * *'
+  push:
+    - branches:  main
 
 
 jobs: 
