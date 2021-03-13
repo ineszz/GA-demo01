@@ -3,9 +3,8 @@ name: GA-demo
 
 # Controls when the action will run.
 on:
-  schedule:
-    - cron:  '15 17 * * *'
-
+  push:
+    branches: main
 
 jobs: 
   autoscrape:
