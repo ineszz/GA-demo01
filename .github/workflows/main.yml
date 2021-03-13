@@ -1,5 +1,5 @@
 # Hourly scraping
-name:demo-ga-new
+name: demo-ga-new
 
 # Controls when the action will run.
 on:
