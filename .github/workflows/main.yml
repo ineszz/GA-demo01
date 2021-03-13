@@ -4,7 +4,8 @@ name: scrape-demo-ga
 # Controls when the action will run.
 on:
   push:
-    - branches:  main
+      branches:  main
+
 
 
 jobs: 
