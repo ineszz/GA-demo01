@@ -1,10 +1,10 @@
 # Hourly scraping
-name: scrape-demo-ga
+name: scrape_demo_ga
 
 # Controls when the action will run.
 on:
   schedule:
-     - cron:  '15 13 * * *'
+     - cron:  '25 11 * * *'
 
 
 
