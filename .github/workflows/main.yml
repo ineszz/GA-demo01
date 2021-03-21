@@ -4,8 +4,7 @@ name: autoscrape
 # Controls when the action will run.
 on:
   push:
-    branches:
-      - main
+    branches: main
  # schedule:
   #  - cron:  '0 12 * * *'
 
